@@ -105,14 +105,8 @@ streamlit run AAAAA.py
 
 ---
 
-## ⭐ **Bonus: Ready for Fiverr / Freelance Gigs**
-✅ DDoS Attack Detection System  
-✅ Streamlit Dashboard Development  
-✅ ML Model Deployment & Testing  
-✅ CSV Data Analysis & Professional Reporting  
+
 
 🔗 **GitHub Repo:** [DDoS-Detection-ML-Dashboard](https://github.com/jawadalijamshaid/DDoS-Detection-ML-Dashboard)
 
----
 
-🔥 **Premium Delivery | Fiverr Ready | Professional Look**
